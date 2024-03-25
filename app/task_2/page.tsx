@@ -39,7 +39,7 @@ export default function Opportunities(){
         <div className="bg-[#f0eff5]">
             <div className='py-10 h-auto w-[90%] mx-100 my-100'>
                 <div className='flex justify-between my-400 py-2 px-2 mx-auto sm:w-4/5 md:w-2/3'>
-                    <span><h1 className="text-[#000] font-sans text-3xl font-extrabold">Opportunities </h1><p className='text-[#7C8493] text-sm font-sans px-2'> Showing 73 results</p></span>
+                    <span><h1 className="text-[#000] font-sans text-3xl font-extrabold">Opportunities </h1><p className='text-[#7C8493] text-sm font-sans px-2'> Showing 4 results</p></span>
                     <span className = "text-[#000]"><span className="text-[#7C8493] text-md font-semibold font-sans">Sort by:</span> Most relevant </span>
                 </div>
                 <div>
